@@ -1,0 +1,33 @@
+{
+  "name": "Quiz-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Machahuay",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "5.8.23",
+    "babelify": "6.4.0",
+    "browser-sync": "2.9.11",
+    "browserify": "11.2.0",
+    "connect-history-api-fallback": "1.1.0",
+    "gulp": "3.9.0",
+    "gulp-autoprefixer": "3.1.0",
+    "gulp-notify": "2.2.0",
+    "gulp-rename": "1.2.2",
+    "gulp-stylus": "2.1.0",
+    "gulp-uglify": "1.4.2",
+    "gulp-util": "3.0.7",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "vinyl-buffer": "1.0.0",
+    "vinyl-source-stream": "1.1.0",
+    "watchify": "3.4.0"
+  },
+  "dependencies": {
+    "react-cookie": "^0.4.7"
+  }
+}
